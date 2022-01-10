@@ -1,3 +1,6 @@
 - bacon
 - eggs
 - xbox
+- ice cream
+- chicken
+- TV
